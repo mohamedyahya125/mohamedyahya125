@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://github.com/mohamedyahya125
 ">
-    <img width="1058" height="211" alt="Image" src="https://github.com/user-attachments/assets/9ca66012-4494-441d-86c3-505290c6655e" /></a>
+    <img width="250" height="111" alt="Image" src="https://github.com/user-attachments/assets/9ca66012-4494-441d-86c3-505290c6655e" /></a>
 </p>
 
 <p align="center">
